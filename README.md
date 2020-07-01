@@ -8,3 +8,6 @@
 
 # What is it?
 Is a simple animated login UI created in Flutter.
+
+
+I used lib simple animation: https://pub.dev/packages/simple_animations
